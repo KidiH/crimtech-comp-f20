@@ -3,14 +3,14 @@ Intro: Responses
 
 D. Install Git
 --------------
-Version: 
+Version: 2.24.1.windows.2
 
 
 E. Install Python
 -----------------
-Version:
+Version: Python 3.7.2
 
 
 F. Install pip
 --------------
-Version:
+Version: pip 18.1
